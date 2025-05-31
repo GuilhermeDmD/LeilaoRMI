@@ -24,3 +24,4 @@ Para rodar certifique-se estar dentro do diretório src
   ```
   java App
   ```
+  OBS: Caso utilize o Windows, pode ser o seu terminal padrão seja o PowerShell, caso isso ocorra recomendamos que mude para o CMD para evitar problemas.
